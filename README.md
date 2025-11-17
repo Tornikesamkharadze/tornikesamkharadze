@@ -8,5 +8,3 @@ Hi, I'm Tornike Full-Stack Developer 👨‍💻
 **- 🔗 <a href="https://www.linkedin.com/in/tornike--samkharadze/" target="_blank">LinkedIn</a>** <br><br>
 
 # It doesn't matter how slowly you go, as long as you don't stop.
-
-1
