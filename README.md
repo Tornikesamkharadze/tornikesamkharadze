@@ -1,4 +1,4 @@
-1Hi, I'm Tornike Full-Stack Developer 👨‍💻
+Hi, I'm Tornike Full-Stack Developer 👨‍💻
 
 **• 💬 I'm open for job opportunities aswell as project collabs** <br><br>
 
