@@ -6,5 +6,5 @@ Hi, I'm Tornike Full-Stack Developer 👨‍💻
  
 **- 📧 Tornikesamkharadzee@gmail.com** <br> <br>
 **- 🔗 <a href="https://www.linkedin.com/in/tornike--samkharadze/" target="_blank">LinkedIn</a>** <br><br>
-1
+
 # It doesn't matter how slowly you go, as long as you don't stop.
